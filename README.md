@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Kitae Kwon! 👋
+# 👋 Hi, I'm Kitae Kwon! 👋
 
 🦁 Hanyang Univ. Information System
 
