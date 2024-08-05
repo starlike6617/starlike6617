@@ -36,7 +36,7 @@
 
 </br>
 
-## 📫 Contact 📫</h3>
+## 📫 Blog 📫
 <div align="center">
   <a href="https://velog.io/@starlike/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
