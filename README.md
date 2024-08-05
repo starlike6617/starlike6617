@@ -11,7 +11,7 @@
 
 ## 💡 제작한 백준 문제들 💡
 
-<table align="center">
+<table>
   <tr>
     <th>티어</th>
     <th>문제 번호</th>
@@ -34,5 +34,12 @@
   </tr>
 </table>
 
+</br>
+
+## 📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@starlike/posts">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+</div>
 
 </div>
