@@ -23,7 +23,7 @@
     <td>사랑의 묘약</td>
   </tr>
   <tr>
-    <td><img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="20" height="20"/></td>
+    <td><img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width="20" height="20"/></td>
     <td><a href="https://www.acmicpc.net/problem/29814">29814</a></td>
     <td>원교수님 과제가 너무 많아요</td>
   </tr>
